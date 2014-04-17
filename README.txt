@@ -1,0 +1,22 @@
+Team TH-5
+---------
+Naga Varun – 100050068
+Ashok – 100050071
+Rajesh – 100050076
+Varun Lavudya – 100050074
+Siddhartha – 100050063
+
+Our project automatically classifies the type of the shape of an object and separates them.
+
+Prerequisites:
+--------------
+Keil mu vision https://www.keil.com/download/product/
+Python	https://www.python.org/download/releases/2.7.6/
+SimpleCV for python http://simplecv.org/download
+
+
+Instructions to run our project:
+--------------------------------
+1. Copy the Object_classifier.bin from the folder Object_Classifier to Firebird  robot.
+2. Run the identify.py after changing the serial port in the code.
+3. Turn on the Firebird robot.
